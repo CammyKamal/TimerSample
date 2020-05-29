@@ -8,5 +8,5 @@ This project code can be used in applications where we want to hide Some views a
 ## Android Components 
 1. Alarm Manager
 2. BroadCast Receivers
-3. Hanlder
+3. Handler
 
